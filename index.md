@@ -19,7 +19,7 @@
     - Number Sorting Algorithm
     - Dynamic Programming Algorithm  
 
-**<mark>The difference between algorithm and model<mark>**
+<strong><mark>The difference between algorithm and model</mark></strong>
 - **Algorithm:** a procedure or formula for solving a problem, based on conducting a sequence of specified actions.
 - **Model:** the output of an algorithm after it has been trained on data, which can then be used to make predictions or decisions.
 
