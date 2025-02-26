@@ -7,8 +7,8 @@
 # 课堂笔记 20250221
 ## Introduction
 1. Four steps of bioinformatics
-    - <font color=Blue>Question/Hypothesis-driven Science:</font>  Question→Information→Analysis→Modeling  
-    - <font color=Blue>Gig Data-driven Science:</font>  Information→Analysis→Modeling→Question   
+    - <font color=Blue>Question/Hypothesis-driven Science:</font> Question→Information→Analysis→Modeling  
+    - <font color=Blue>Gig Data-driven Science:</font> Information→Analysis→Modeling→Question   
 2. NGS Data Analysis
     - Sequencing method+Bioinformatics tool *(different RNA variation need more methods and tools)*
     - Interpreting the Data *(Cell types,Gene signatures)*
@@ -19,9 +19,9 @@
     - Number Sorting Algorithm
     - Dynamic Programming Algorithm  
 
-<strong><mark>The difference between algorithm and model</mark></strong>
-- **Algorithm:** a procedure or formula for solving a problem, based on conducting a sequence of specified actions.
-- **Model:** the output of an algorithm after it has been trained on data, which can then be used to make predictions or decisions.
+<mark>The difference between algorithm and model<mark>
+- Algorithm: a procedure or formula for solving a problem, based on conducting a sequence of specified actions.
+- Model: the output of an algorithm after it has been trained on data, which can then be used to make predictions or decisions.
 
 ## Getting started
 1. Document your work – Github & Markdown
