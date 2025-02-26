@@ -9,21 +9,19 @@
 1. Four steps of bioinformatics
     - <font color=Blue>Question/Hypothesis-driven Science:</font> Question→Information→Analysis→Modeling  
     - <font color=Blue>Gig Data-driven Science:</font> Information→Analysis→Modeling→Question   
-3. NGS Data Analysis
-    - Sequencing method+Bioinformatics tool *(Different RNA variation need more methods and tools)*
+2. NGS Data Analysis
+    - Sequencing method+Bioinformatics tool *(different RNA variation need more methods and tools)*
     - Interpreting the Data *(Cell types,Gene signatures)*
-4. Machine Learning Models
+3. Machine Learning Models
     - Regression Model: Linear →Logistic Regression *(used for classification rather than regression)*
     - Neural Network Model →Deep Learning
-5. Computational Algorithms
+4. Computational Algorithms
     - Number Sorting Algorithm
     - Dynamic Programming Algorithm  
 
 **<mark>The difference between algorithm and model<mark>**
 - **Algorithm:** a procedure or formula for solving a problem, based on conducting a sequence of specified actions.
-
 - **Model:** the output of an algorithm after it has been trained on data, which can then be used to make predictions or decisions.
-
 
 ## Getting started
 1. Document your work – Github & Markdown
@@ -31,7 +29,6 @@
 3. How to use Bioinformatics Tutorial *(Teaching Materials,Advanced learning Materials)*
 4. Setup: text editors *(VS code,Vim)* & Docker  
 
-   
 # 生信学习计划
 1. 课堂学习
     - 提前预习本课内容，准备好上节课听课和复习时产生的问题，及时提出并解决
