@@ -11,7 +11,7 @@
     - <font color=Blue>Gig Data-driven Science:</font> Information→Analysis→Modeling→Question   
 3. NGS Data Analysis
     - Sequencing method+Bioinformatics tool *(Different RNA variation need more methods and tools)*
-    -  Interpreting the Data *(Cell types,Gene signatures)*
+    - Interpreting the Data *(Cell types,Gene signatures)*
 4. Machine Learning Models
     - Regression Model: Linear →Logistic Regression *(used for classification rather than regression)*
     - Neural Network Model →Deep Learning
@@ -28,7 +28,7 @@
 ## Getting started
 1. Document your work – Github & Markdown
 2. Backup your work
-3. How to use Bioinformatics Tutorial *(Teaching Materials & Advanced learning Materials)*
+3. How to use Bioinformatics Tutorial *(Teaching Materials,Advanced learning Materials)*
 4. Setup: text editors *(VS code,Vim)* & Docker  
 
    
