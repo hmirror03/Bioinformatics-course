@@ -7,8 +7,8 @@
 # 课堂笔记 20250221
 ## Introduction
 1. Four steps of bioinformatics
-    - <font color=Blue>Question/Hypothesis-driven Science:</font> Question→Information→Analysis→Modeling  
-    - <font color=Blue>Gig Data-driven Science:</font> Information→Analysis→Modeling→Question   
+    - <font color=Blue>Question/Hypothesis-driven Science:</font>  Question→Information→Analysis→Modeling  
+    - <font color=Blue>Gig Data-driven Science:</font>  Information→Analysis→Modeling→Question   
 2. NGS Data Analysis
     - Sequencing method+Bioinformatics tool *(different RNA variation need more methods and tools)*
     - Interpreting the Data *(Cell types,Gene signatures)*
